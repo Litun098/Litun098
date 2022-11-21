@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Litun098
 - 👀 I’m interested in web development, and learning new technologies.
 - 🌱 I’m currently learning Backend development with Nodejs.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/dibyakanta-nayak-77bab11b9/
 
 <!---
