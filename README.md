@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Litun098
+- 👋 Hi, I’m Dibyakanta Nayak
 - 👀 I’m interested in web development, and learning new technologies.
 - 🌱 I’m currently learning Backend development with Nodejs.
 - 📫 How to reach me https://www.linkedin.com/in/dibyakanta-nayak-77bab11b9/
